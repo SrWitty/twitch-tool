@@ -19,7 +19,7 @@ The **Twitch Tool** is a command-line utility for interacting with the Twitch AP
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/SrWitty/twitch-tool.git
+   git clone https://github.com/M7mdJs/twitch-tool.git
    cd twitch-tool
    ```
 
@@ -71,9 +71,9 @@ Errors encountered during API requests are logged to `error.json`. Check this fi
 
 ## Developer
 
-**[Sir.Witty](https://github.com/SrWitty)**
+**[M7md_Js](https://github.com/M7mdJs)**
 
-- **GitHub**: [github.com/SrWitty](https://github.com/SrWitty)
+- **GitHub**: [github.com/M7mdJs](https://github.com/M7mdJs)
 - **Discord**: [M7md](discord.com/users/1091118468155314306)
 
 
